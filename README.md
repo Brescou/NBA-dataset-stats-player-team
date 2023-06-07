@@ -13,8 +13,13 @@ This repository contains a series of CSV files detailing the performances of tea
 5. `player_stats_scoring_po.csv` and `player_stats_scoring_rs.csv`: Scoring statistics for players during the playoffs and regular season.
 6. `player_stats_traditional_po.csv` and `player_stats_traditionnal_rs.csv`: Traditional player statistics during the playoffs and regular season.
 7. `player_stats_usage_po.csv` and `player_stats_usage_rs.csv`: Player usage statistics during the playoffs and regular season.
-8. `team_stats_advanced_po.csv` and `team_stats_traditional_po.csv`: Advanced and traditional team statistics during the playoffs.
-9. `team_stats_traditional_rs.csv`: Traditional team statistics during the regular season.
+8. `team_stats_advanced_po.csv` and `team_stats_advanced_rs.csv`: Advanced team statistics during the playoffs and regular season.
+9. `team_stats_defense_po.csv` and `team_stats_defense_rs.csv`: Defensive team statistics during the playoffs and regular season.
+10. `team_stats_four_factors_po.csv` and `team_stats_four_factors_rs.csv`: Four factors team statistics during the playoffs and regular season.
+11. `team_stats_misc_po.csv` and `team_stats_misc_rs.csv`: Miscellaneous team statistics during the playoffs and regular season.
+12. `team_stats_opponent_po.csv` and `team_stats_opponent_rs.csv`: Team opponent statistics during the playoffs and regular season.
+13. `team_stats_scoring_po.csv` and `team_stats_scoring_rs.csv`: Scoring team statistics during the playoffs and regular season.
+14. `team_stats_traditional_po.csv` and `team_stats_traditional_rs.csv`: Traditional team statistics during the playoffs and regular season.
 
 ## How to Use this Data
 
